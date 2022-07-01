@@ -1,0 +1,3 @@
+Hola, soy Miguel
+Este es la segunda pruba de git y gitHub
+Comenzare con un solo archivo de tipo texto "documento.txt"
