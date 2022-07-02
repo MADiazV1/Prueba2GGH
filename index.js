@@ -1,4 +1,4 @@
-alert("Hola mundo");
+alert("Hello world");
 
 var miNombre = function(){
     var nombre = "MIGUEL"
@@ -6,5 +6,7 @@ var miNombre = function(){
         document.write("Hola, "+nombre+'<br>');
     }
 }
+
+
 
 miNombre();
