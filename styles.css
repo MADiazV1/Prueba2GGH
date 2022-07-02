@@ -6,7 +6,7 @@
 body{
     margin: auto;
     width: 90%;
-    background-color: darkkhaki;
+    background-color: #49acac;
 }
 
 header{
@@ -26,4 +26,8 @@ p{
 
 #contenedor{
     border: 1px solid black;
+}
+
+h1{
+    color: red;
 }
