@@ -17,6 +17,7 @@ header{
 p{
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
 }
 
 #resaltado{
@@ -29,5 +30,7 @@ p{
 }
 
 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
     color: red;
 }
